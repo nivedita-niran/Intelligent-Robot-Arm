@@ -1,1 +1,2 @@
 # Intelligent-Robot-Arm
+This project features an intelligent robot arm that uses an IR sensor and an ultrasonic sensor to detect nearby objects. When an object is detected within a specific range, the servo motor activates to grasp or release the object accordingly. An LCD display is used to show the measured distance in real time. The system demonstrates basic automation and sensor integration using Arduino.
